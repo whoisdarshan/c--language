@@ -1,0 +1,1 @@
+int a[100], size,max,min,i;
